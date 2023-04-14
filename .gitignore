@@ -1,0 +1,4 @@
+/*.sqlite*
+/venv/
+/.idea/
+.DS_Store
